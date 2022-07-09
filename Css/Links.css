@@ -1,0 +1,39 @@
+#lnbody{
+    background-image: url('logo.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+ }
+ #lm{
+    cursor: pointer;
+    border-radius: 50px;
+    text-align: center;
+    color:darkblue;
+ }
+ #lmd{
+    font-size: 30px;
+    text-align: center;
+    border-radius: 50px;
+    background-color: rgb(65, 121, 121);
+ }
+ #lhd{border-radius: 50px;
+    background-color: rgba(155, 190, 218, 0.938);
+    text-align: center;
+    padding-top: 5PX;
+    padding-bottom: 5PX;
+ }
+ #hb{
+    
+    border-radius: 5px;
+    background-color: rgba(253, 7, 7, 0.664);
+    color: rgb(0, 0, 0);
+ }
+ #hb:hover{
+    border-radius: 30px;
+    cursor: pointer;
+    color: rgb(20, 16, 201);
+    background-color: rgb(187, 84, 24);
+    min-width: 10%;
+    min-height: 5%;
+    text-transform: uppercase;
+ }

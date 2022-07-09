@@ -1,0 +1,22 @@
+#pgbdy{
+    background-image: url('home.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;  
+ }
+ #hb{
+    
+    border-radius: 5px;
+    background-color: rgba(253, 7, 7, 0.664);
+    color: rgb(0, 0, 0);
+ }
+ #hb:hover{
+    border-radius: 30px;
+    cursor: pointer;
+    color: rgb(20, 16, 201);
+    background-color: rgb(187, 84, 24);
+    min-width: 10%;
+    min-height: 5%;
+    text-transform: uppercase;
+ }
+ 

@@ -1,0 +1,33 @@
+#bbd{
+   
+    background-image: url('loc.jpg');
+    background-position: center;
+    background-size:cover;
+}
+#bktb{
+    border-color: rgb(47, 95, 79);
+     border: 2;
+     border-style:groove;
+     border-radius: 5px;
+     color: rgb(0, 0, 0);
+     margin-top:  150px;
+     background-color: rgba(110, 106, 47, 0.644);
+  }
+  #htr1{
+    background-color: rgba(92, 138, 88, 0.63);
+ }
+ #hb{
+    
+    border-radius: 5px;
+    background-color: rgba(253, 7, 7, 0.664);
+    color: rgb(0, 0, 0);
+ }
+ #hb:hover{
+    border-radius: 30px;
+    cursor: pointer;
+    color: rgb(20, 16, 201);
+    background-color: rgb(187, 84, 24);
+    min-width: 10%;
+    min-height: 5%;
+    text-transform: uppercase;
+ }

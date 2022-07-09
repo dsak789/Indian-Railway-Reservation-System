@@ -1,0 +1,22 @@
+#tn{
+    margin-top: 40px;
+    border-radius: 100px ;
+    text-align: center;
+    font-size: 40px;
+    color: rgb(255, 174, 0);
+    background-color:rgba(89, 150, 150, 0.753);
+}
+#tn:hover{
+    background-color:rgba(19, 204, 204, 0.753);
+    color: rgb(218, 20, 6);
+    font-size: 40px;
+    font-family:cursive;
+    cursor: pointer;
+}
+
+#dby{
+    background-image: url('images.png');
+    background-position: left;
+    background-size:contain;
+    background-repeat:repeat-x;
+}
